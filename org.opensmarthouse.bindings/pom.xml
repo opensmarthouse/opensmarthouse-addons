@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.opensmarthouse</groupId>
     <artifactId>org.opensmarthouse.addons</artifactId>
-    <version>0.10.1</version>
+    <version>0.10.2-SNAPSHOT</version>
   </parent>
 
   <artifactId>org.opensmarthouse.bindings</artifactId>
